@@ -2,7 +2,9 @@
 
 ## What it does
 
-FES (Fast, Easy, Simple) enables users to create complex blockchain transaction chains through natural language commands. Users simply describe what they want to accomplish, and our AI translates these instructions into executable transaction flows. Our mind map-style interface visualizes the entire process, making sophisticated DeFi operations accessible to everyone.
+FES (Fast, Easy, Simple) enables users to create complex blockchain transaction chains through natural language commands. 
+Users simply describe what they want to accomplish, and our AI translates these instructions into executable transaction flows. 
+Our mind map-style interface visualizes the entire process, making sophisticated DeFi operations accessible to everyone.
 
 ## The problem it solves
 
